@@ -6,7 +6,7 @@ The artifact I have chosen for all three enhancements is the final project for m
 
 [Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
 
-I selected this item because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertain yet. 
+I selected this item because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertained yet. 
 
 The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
 Through the incorporation of these enhancements, I have met the following course outcomes:
