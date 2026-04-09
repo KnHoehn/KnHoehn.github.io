@@ -1,9 +1,10 @@
-# Kayla Hoehn 
-## CS-499 ePortfolio
+## Kayla Hoehn CS-499 ePortfolio
 
 [Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
 
 The artifact I have chosen for all three enhancements is the final project for my introduction to scripting class, which was a text-based game written in Python. The purpose of this assignment was to apply what we had learned throughout the course and demonstrate it in the creation of this text-based game. The objective of the game is to collect the objects in each room before reaching the room where the alien resides. If the player reaches the alien before collecting all of the items, it’s game over. If the player collects all of the items before reaching the alien, the player wins. This artifact was originally created during my first semester in the Computer Science program in 2022. 
+
+[Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
 
 I selected this item because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertain yet. 
 
