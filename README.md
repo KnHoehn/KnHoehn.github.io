@@ -23,7 +23,7 @@ A challenge I faced was when I refactored the command processing logic in the Co
 
 I initially wanted to process all possible user commands in the Command class including if the user types “Exit”, but realized I could not return both the hashmap of  currentRoom if the user moved rooms or a Boolean value if the user typed “exit”, which was going to be my solution to not being able to break out of a while loop within a separate class was to instead send a Boolean value to tell the main class to break out of the loop. Therefore, I ended up having to check if the user input “Exit” first and then move on to calling the Command class if they did not.
 
-[Text Based Game Enhancement One](https://github.com/KnHoehn/JavaTextBasedGameEnhancementOne)
+[Link to Text Based Game Enhancement One Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementOne)
 
 For the second enhancement category, Algorithms and Data Structures, the artifact was improved by implementing algorithms to create a scoring system and refactoring data structures to utilize JSON files and Object-Oriented Programming to allow the user to choose the theme of the game, creating a customized experience for the user. Utilizing JSON files and Object-Oriented Programming also allows software developers to easily add or edit themes to the game. This showcases my skills of being able to create and utilize algorithms to incorporate features that rely on them as well as the ability to incorporate Object-Oriented Design principles to improve data structures.
 
@@ -39,5 +39,5 @@ A challenge I initially faced was having to move a lot of the command processing
 
 Another challenge was when creating the JSON files, I decided to also make the boss room and the starting room different for each theme. This meant that for some maps the minimum amount of moves the user can take to collect all items and defeat the boss is now more than ten. My original proposal was to only allow a -10 to their moves score if the user took more than 10 moves, but because of the new maps I decided to include a -10 to the move score for every move they take from the start of the game.
 
-[Text Based Game Enhancement Two](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo/tree/main)
+[Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo/tree/main)
 
