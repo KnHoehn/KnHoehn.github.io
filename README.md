@@ -39,7 +39,7 @@ A challenge I initially faced was having to move a lot of the command processing
 
 Another challenge was when creating the JSON files, I decided to also make the boss room and the starting room different for each theme. This meant that for some maps the minimum amount of moves the user can take to collect all items and defeat the boss is now more than ten. My original proposal was to only allow a -10 to their moves score if the user took more than 10 moves, but because of the new maps I decided to include a -10 to the move score for every move they take from the start of the game.
 
-[Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo/tree/main)
+[Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo)
 
 For the third enhancement category, Algorithms and Data Structures, the artifact was improved by incorporating a database which allowed for the creation of a user account creation and log in system. The incorporation of a database also allowed for the user’s score to be saved at the end of the game and display to the user their top ten scores as well as a leaderboard of the top ten scores of all time by pulling the user and scoring data from the database. This showcases my skills of being able to create and connect to a database as well as successfully insert and retrieve data from it while following best practices such as incorporating prepared statements to avoid the possibility of SQL injection and hashing and salting the user’s password to avoid storing sensitive data to the database. 
 
