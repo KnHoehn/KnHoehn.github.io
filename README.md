@@ -2,6 +2,8 @@ Hello, my name is Kayla Hoehn and I have been pursuing my bachelor’s degree in
 
 With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU teaching me the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
 
+## Education Overview
+
 Beyond the general education I have received at SNHU, I have also gained the following skills through the computer science program:
 
 I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team.
@@ -15,6 +17,8 @@ I learned about software engineering by taking courses that taught me both funda
 I learned about databases by taking courses that taught me how to create and perform basic  CRUD operations and advanced querying on both schema-based databases, such as MySql, and schema-less databases, such as MongoDB.
 
 I have learned about software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform QA testing on applications.
+
+## ePortfolio Introduction
 
 Ever since my first introduction to the Computer Science program, SNHU has been very forthright that their mission is to not only give us the knowledge and skills to excel in our field, but to also help us build a portfolio that can be shown as an introduction to our work and skills to potential employers. This ePortfolio showcases what I have learned while attending SNHU while also highlighting my strengths and demonstrating my range. Working on this ePortfolio has taught me how to reflect on my strengths and capabilities and come up with and apply my own design plan to enhance an application that showcases my talents.
 
@@ -34,9 +38,13 @@ I selected this artifact to improve upon because I think it has a lot of potenti
 
 For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
 
+## Code Review
+
 Before we started on our enhancements, we conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
 [Link to the Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
+
+## Enhancement One
 
 For the first enhancement category, Software Engineering and Design, The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
 
@@ -57,6 +65,8 @@ I initially wanted to process all possible user commands in the Command class in
 
 [Link to Text Based Game Enhancement One Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementOne)
 
+## Enhancement Two
+
 For the second enhancement category, Algorithms and Data Structures, the artifact was improved by implementing algorithms to create a scoring system and refactoring data structures to utilize JSON files and Object-Oriented Programming to allow the user to choose the theme of the game, creating a customized experience for the user. Utilizing JSON files and Object-Oriented Programming also allows software developers to easily add or edit themes to the game. This showcases my skills of being able to create and utilize algorithms to incorporate features that rely on them as well as the ability to incorporate Object-Oriented Design principles to improve data structures.
 
 Through the incorporation of these enhancements, I have met the following course outcomes:
@@ -73,6 +83,8 @@ A challenge I initially faced was having to move a lot of the command processing
 Another challenge was when creating the JSON files, I decided to also make the boss room and the starting room different for each theme. This meant that for some maps the minimum amount of moves the user can take to collect all items and defeat the boss is now more than ten. My original proposal was to only allow a -10 to their moves score if the user took more than 10 moves, but because of the new maps I decided to include a -10 to the move score for every move they take from the start of the game.
 
 [Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo)
+
+## Enhancement Three
 
 For the third enhancement category, Algorithms and Data Structures, the artifact was improved by incorporating a database which allowed for the creation of a user account creation and log in system. The incorporation of a database also allowed for the user’s score to be saved at the end of the game and display to the user their top ten scores as well as a leaderboard of the top ten scores of all time by pulling the user and scoring data from the database. This showcases my skills of being able to create and connect to a database as well as successfully insert and retrieve data from it while following best practices such as incorporating prepared statements to avoid the possibility of SQL injection and hashing and salting the user’s password to avoid storing sensitive data to the database. 
 
