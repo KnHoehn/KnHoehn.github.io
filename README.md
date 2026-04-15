@@ -28,6 +28,8 @@ For this ePortfolio we were tasked with choosing an artifact that we had created
 
 The artifact I have chosen for all three enhancements is the final project for my introduction to scripting class, which was a text-based game written in Python. The purpose of this assignment was to apply what we had learned throughout the course and demonstrate it in the creation of this text-based game. The objective of the game is to collect the objects in each room before reaching the room where the alien resides. If the player reaches the alien before collecting all of the items, it’s game over. If the player collects all of the items before reaching the alien, the player wins. This artifact was originally created during my first semester in the Computer Science program in 2022. 
 
+I selected this artifact to improve upon because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertained yet. 
+
 [Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
 
 For the software engineering and design category I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases I chose to create a database for the game so I could incorporate saving and displaying score as well as a login system.
@@ -35,8 +37,6 @@ For the software engineering and design category I chose to rewrite the applicat
 Before we started on our enhancements, we conducted a code review of the artifact to explain it’s functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
 [Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
-
-I selected this artifact to improve upon because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertained yet. 
 
 For the first enhancement category, Software Engineering and Design, The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
 
