@@ -22,7 +22,13 @@ Beyond the general education I have received at SNHU, I have also gained the fol
 
 Ever since my first introduction to the Computer Science program, SNHU has been very forthright that their mission is to not only give us the knowledge and skills to excel in our field, but to also help us build a portfolio that can be shown as an introduction to our work and skills to potential employers. This ePortfolio showcases what I have learned while attending SNHU while also highlighting my strengths and demonstrating my range. Working on this ePortfolio has taught me how to reflect on my strengths and capabilities and come up with and apply my own design plan to enhance an application that showcases my talents.
 
-For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We got to choose the enhancements ourselves as long as they met the criteria and were approved by the professor. The criteria for the enhancements were to reflect three categories: software engineering and design, data structures and algorithms, and databases. Through these enhancements we also had to ensure we covered all five course outcomes:
+For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We got to choose the enhancements ourselves as long as they met the criteria and were approved by the professor. The criteria for the enhancements were to reflect three categories: 
+
+1. Software engineering and design 
+2. Data structures and algorithms 
+3. Databases. 
+
+Through these enhancements we also had to ensure we covered all five course outcomes:
 
 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
