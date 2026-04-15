@@ -40,7 +40,7 @@ The artifact I have chosen for all three enhancements is the final project for m
 
 I selected this artifact to improve upon because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertained yet. 
 
-[Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
+- [Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
 
 For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
 
@@ -48,7 +48,7 @@ For the software engineering and design category, I chose to rewrite the applica
 
 Before we started on our enhancements, we conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
-[Link to the Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
+- [Link to the Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
 
 ## Enhancement One
 
@@ -69,7 +69,7 @@ A challenge I faced was when I refactored the command processing logic in the Co
 
 I initially wanted to process all possible user commands in the Command class including if the user types “Exit”, but realized I could not return both the hashmap of  currentRoom if the user moved rooms or a Boolean value if the user typed “exit”, which was going to be my solution to not being able to break out of a while loop within a separate class was to instead send a Boolean value to tell the main class to break out of the loop. Therefore, I ended up having to check if the user input “Exit” first and then move on to calling the Command class if they did not.
 
-[Link to Text Based Game Enhancement One Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementOne)
+- [Link to Text Based Game Enhancement One Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementOne)
 
 ## Enhancement Two
 
@@ -88,7 +88,7 @@ A challenge I initially faced was having to move a lot of the command processing
 
 Another challenge was when creating the JSON files, I decided to also make the boss room and the starting room different for each theme. This meant that for some maps the minimum amount of moves the user can take to collect all items and defeat the boss is now more than ten. My original proposal was to only allow a -10 to their moves score if the user took more than 10 moves, but because of the new maps I decided to include a -10 to the move score for every move they take from the start of the game.
 
-[Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo)
+- [Link to Text Based Game Enhancement Two Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementTwo)
 
 ## Enhancement Three
 
@@ -108,4 +108,4 @@ I also learned how to connect to an external database via the MySql connector de
 
 My database consists of a users table and a score_board table. The users table has a schema of user_id, user_name, user_password (Which is hashed and salted), and the salt used. The score_board table has a schema of score_id, user_name (which is a foreign key to reference the user_name in user_table), score (The user’s final score), moves (The user’s total moves), time (The time it took them to beat the game), and theme (The theme played when the score was recorded). A screenshot of the schema can be found in the repositories README file.
 
-[Link to Text Based Game Enhancement Three Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementThree)
+- [Link to Text Based Game Enhancement Three Repository](https://github.com/KnHoehn/JavaTextBasedGameEnhancementThree)
