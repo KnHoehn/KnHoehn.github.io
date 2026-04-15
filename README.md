@@ -36,7 +36,7 @@ For the software engineering and design category, I chose to rewrite the applica
 
 Before we started on our enhancements, we conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
-[Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
+[Link to the Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
 
 For the first enhancement category, Software Engineering and Design, The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
 
