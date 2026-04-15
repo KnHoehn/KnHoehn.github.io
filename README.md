@@ -60,6 +60,7 @@ I initially wanted to process all possible user commands in the Command class in
 For the second enhancement category, Algorithms and Data Structures, the artifact was improved by implementing algorithms to create a scoring system and refactoring data structures to utilize JSON files and Object-Oriented Programming to allow the user to choose the theme of the game, creating a customized experience for the user. Utilizing JSON files and Object-Oriented Programming also allows software developers to easily add or edit themes to the game. This showcases my skills of being able to create and utilize algorithms to incorporate features that rely on them as well as the ability to incorporate Object-Oriented Design principles to improve data structures.
 
 Through the incorporation of these enhancements, I have met the following course outcomes:
+
 implementing an algorithm for computing the players score satisfies the course outcome of design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
 
 Using Object Oriented Design programming satisfies the course outcome of demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
