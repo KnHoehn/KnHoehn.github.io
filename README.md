@@ -34,7 +34,7 @@ I selected this artifact to improve upon because I think it has a lot of potenti
 
 For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
 
-Before we started on our enhancements, we conducted a code review of the artifact to explain it’s functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
+Before we started on our enhancements, we conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
 [Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
 
