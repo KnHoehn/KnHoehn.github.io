@@ -6,17 +6,17 @@ With each course I’ve taken at SNHU, it has reinforced my career goals of beco
 
 Beyond the general education I have received at SNHU, I have also gained the following skills through the computer science program:
 
-I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team.
+- I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team.
 
-I learned how to communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
+- I learned how to communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
 
-I have learned about data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables.
+- I have learned about data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables.
 
-I learned about software engineering by taking courses that taught me both fundamental and advanced concepts in Python, Java, and C++, how to build full stack web applications, mobile applications, and the Software Development Lifecycle.
+- I learned about software engineering by taking courses that taught me both fundamental and advanced concepts in Python, Java, and C++, how to build full stack web applications, mobile applications, and the Software Development Lifecycle.
 
-I learned about databases by taking courses that taught me how to create and perform basic  CRUD operations and advanced querying on both schema-based databases, such as MySql, and schema-less databases, such as MongoDB.
+- I learned about databases by taking courses that taught me how to create and perform basic  CRUD operations and advanced querying on both schema-based databases, such as MySql, and schema-less databases, such as MongoDB.
 
-I have learned about software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform QA testing on applications.
+- I have learned about software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform QA testing on applications.
 
 ## ePortfolio Introduction
 
