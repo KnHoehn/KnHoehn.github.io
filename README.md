@@ -1,4 +1,4 @@
-Hello, my name is Kayla Hoehn and I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering through Southern New Hampshire University (SNHU) for the past four years. 
+My name is Kayla Hoehn and I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering through Southern New Hampshire University (SNHU) for the past four years. 
 
 With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU teaching me the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
 
