@@ -1,20 +1,18 @@
-My name is Kayla Hoehn and I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering through Southern New Hampshire University (SNHU) for the past four years. 
+My name is Kayla Hoehn and I am a student at Southern New Hampshire University (SNHU). For the past four years I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering and am projected to graduate May 1st, 2026.
 
 ## Professional Self-Assessment
 
-With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU teaching me the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
+With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU supplying me with the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
 
-During my time in the computer science program at SNHU, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. 
+During my time in the computer science program at SNHU, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
 
-Taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements taught me how to communicate with stakeholders.
+Additionally, I have developed strong knowledge of data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables. 
 
-Additionally, I have learned about data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables.
+I have also gained the necessary software engineering skills and experience by taking courses that taught me both fundamental and advanced concepts in Python, Java, and C++, how to build full stack web applications, mobile applications, and the Software Development Lifecycle. 
 
-I have also gained software engineering skills by taking courses that taught me both fundamental and advanced concepts in Python, Java, and C++, how to build full stack web applications, mobile applications, and the Software Development Lifecycle. 
+Furthermore, I have gained experience with databases by taking courses that taught me how to create and perform basic CRUD operations and advanced querying on both schema-based databases, such as MySQL, and schema-less databases, such as MongoDB. 
 
-I have experience with databases by taking courses that taught me how to create and perform basic CRUD operations and advanced querying on both schema-based databases, such as MySql, and schema-less databases, such as MongoDB. 
-
-Furthermore, I have a strong foundation of software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform QA testing on applications.
+Finally, I have a strong foundation of software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform quality assurance testing on applications.
 
 ## ePortfolio Introduction
 
