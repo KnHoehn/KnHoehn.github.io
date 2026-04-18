@@ -4,7 +4,7 @@ My name is Kayla Hoehn and I am a student at Southern New Hampshire University (
 
 With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU supplying me with the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
 
-During my time in the computer science program at SNHU, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
+During my time in the computer science program, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
 
 Additionally, I have developed strong knowledge of data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables. 
 
