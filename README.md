@@ -31,15 +31,17 @@ Through these enhancements we also had to ensure we covered all five course outc
 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
 3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
-5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+
+For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
+
+## Artifact
 
 The artifact I have chosen for all three enhancements is the final project for my introduction to scripting class, which was a text-based game written in Python. The purpose of this assignment was to apply what we had learned throughout the course and demonstrate it in the creation of this text-based game. The objective of the game is to collect the objects in each room before reaching the room where the alien resides. If the player reaches the alien before collecting all of the items, it’s game over. If the player collects all of the items before reaching the alien, the player wins. This artifact was originally created during my first semester in the Computer Science program in 2022. 
 
 I selected this artifact to improve upon because I think it has a lot of potential. With it being a simple text based game, there is so much you could enhance to expand or improve upon, which gave it a lot of potential to be able to add enhancements in the software engineering and design, algorithms and data structures, and databases categories, and I think even past those enhancements the game could become really expansive in areas I haven’t even entertained yet. 
 
 - [Link to the original artifact](https://github.com/KnHoehn/Python-Text-Based-Game)
-
-For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
 
 ## Code Review
 
