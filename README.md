@@ -6,13 +6,14 @@ With each course I’ve taken at SNHU, it has reinforced my career goals of beco
 
 During my time in the computer science program, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
 
-Additionally, I have developed strong knowledge of data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables. 
+Additionally, I have developed a strong knowledge of data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables.
 
 I have also gained the necessary software engineering skills and experience by taking courses that taught me both fundamental and advanced concepts in Python, Java, and C++, how to build full stack web applications, mobile applications, and the Software Development Lifecycle. 
 
 Furthermore, I have gained experience with databases by taking courses that taught me how to create and perform basic CRUD operations and advanced querying on both schema-based databases, such as MySQL, and schema-less databases, such as MongoDB. 
 
-Finally, I have a strong foundation of software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform quality assurance testing on applications.
+Finally, I have developed a strong foundation of software security and testing by taking courses that taught me how to code with a secure mindset, identify and fix vulnerabilities, and perform quality assurance testing on applications.
+
 
 ## ePortfolio Introduction
 
