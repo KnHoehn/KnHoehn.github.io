@@ -1,10 +1,10 @@
-My name is Kayla Hoehn and I am a student at Southern New Hampshire University (SNHU). For the past four years I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering and am projected to graduate May 1st, 2026.
+My name is Kayla Hoehn and I am a student at Southern New Hampshire University (SNHU). For the past four years, I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering and am projected to graduate May 1st, 2026.
 
 ## Professional Self-Assessment
 
 With each course I’ve taken at SNHU, it has reinforced my career goals of becoming a software engineer while teaching me the concepts and values associated with the occupation. By SNHU supplying me with the foundations, best practices, and advanced concepts of computer science and software engineering, this has prepared me to enter the professional space.
 
-During my time in the computer science program, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders and design and build an application from those requirements.
+During my time in the computer science program, I have learned how to collaborate in a team environment by taking courses that taught me SCRUM ideology and how to participate in an Agile team. I have also learned how to effectively communicate with stakeholders by taking courses that taught me how to collect requirements from stakeholders, as well as design and build an application from those requirements.
 
 Additionally, I have developed a strong knowledge of data structures and algorithms by taking courses that taught me how to choose and apply algorithmic concepts such as binary search trees, linked-lists, vectors, and hash tables.
 
