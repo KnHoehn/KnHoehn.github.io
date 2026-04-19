@@ -19,7 +19,7 @@ Finally, I have developed a strong foundation of software security and testing b
 
 Ever since my first introduction to the Computer Science program, SNHU has been very forthright that their mission is to not only give us the knowledge and skills to excel in our field, but to also help us build a portfolio that can be shown as an introduction to our work and skills to potential employers. This ePortfolio showcases what I have learned while attending SNHU while also highlighting my strengths and demonstrating my range. Working on this ePortfolio has taught me how to reflect on my strengths and capabilities and come up with and apply my own design plan to enhance an application that showcases my talents.
 
-For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We got to choose the enhancements ourselves as long as they met the criteria and were approved by the professor. The criteria for the enhancements were to reflect three categories: 
+For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We chose the enhancements ourselves as long as they met the criteria and were approved by the professor. The criteria for the enhancements were to reflect three categories: 
 
 1. Software engineering and design 
 2. Data structures and algorithms 
