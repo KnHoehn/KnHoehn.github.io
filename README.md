@@ -19,10 +19,10 @@ Finally, I have developed a strong foundation of software security and testing b
 
 Ever since my first introduction to the Computer Science program, SNHU has been very forthright that their mission is to not only give us the knowledge and skills to excel in our field, but to also help us build a portfolio that can be shown as an introduction to our work and skills to potential employers. This ePortfolio showcases what I have learned while attending SNHU while also highlighting my strengths and demonstrating my range. Working on this ePortfolio has taught me how to reflect on my strengths and capabilities and come up with and apply my own design plan to enhance an application that showcases my talents.
 
-For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We chose the enhancements ourselves as long as they met the criteria and were approved by the professor. The criteria for the enhancements were to reflect three categories: 
+For this ePortfolio we were tasked with choosing an artifact that we had created for a previous course in the SNHU computer science program and creating enhancements for it. We chose the enhancements ourselves but they also had to meet the criteria and get approved by the professor. The criteria for the enhancements were to reflect three categories:
 
-1. Software engineering and design 
-2. Data structures and algorithms 
+1. Software design and engineering
+2. Algorithms and data structure
 3. Databases. 
 
 Through these enhancements we also had to ensure we covered all five course outcomes:
@@ -33,7 +33,7 @@ Through these enhancements we also had to ensure we covered all five course outc
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-For the software engineering and design category, I chose to rewrite the application into Java and modularize it into classes. For the second category of data structures and algorithms, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
+For the software design and engineering category, I chose to rewrite the application into Java and modularize it into classes. For the second category of algorithms and data structure, I chose to refactor the code to incorporate Object Oriented Programming, a new scoring system, and the ability to choose the theme of the game by swapping JSON’s. For the last category of databases, I chose to create a database for the game so I could incorporate saving and displaying end game stats as well as a login system.
 
 ## Artifact
 
@@ -45,13 +45,13 @@ I selected this artifact to improve upon because I think it has a lot of potenti
 
 ## Code Review
 
-Before we started on our enhancements, we conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
+Before I started on my enhancements, I conducted a code review of the artifact to explain its functionality, the planned enhancements, as well as going through a checklist to review the code through a critical lens and point out any weaknesses or areas of improvement.
 
 - [Link to the Code Review](https://www.youtube.com/watch?v=kRiUtRzsGTI)
 
 ## Enhancement One
 
-For the first enhancement category, Software Engineering and Design, The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
+For the first enhancement category, Software design and engineering, The artifact was improved by porting it from Python to Java and modularizing it into classes. This made the code more clean, reusable, maintainable, and readable. This showcases my skills of being able to determine how to maintain the same functionality from one language to another while also incorporating logic and design improvements and fixing bugs. 
 
 Through the incorporation of these enhancements, I have met the following course outcomes:
 
