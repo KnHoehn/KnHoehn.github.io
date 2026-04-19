@@ -1,4 +1,4 @@
-My name is Kayla Hoehn and I am a student at Southern New Hampshire University (SNHU). For the past four years, I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering and am projected to graduate May 1st, 2026.
+My name is Kayla Hoehn and I am a student at Southern New Hampshire University (SNHU). For the past four years I have been pursuing my bachelor’s degree in computer science with a concentration in software engineering, and am projected to graduate May 1st, 2026.
 
 ## Professional Self-Assessment
 
